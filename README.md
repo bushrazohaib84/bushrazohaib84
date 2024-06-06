@@ -1,5 +1,3 @@
-![Bushra zohaib](https://github.com/bushrazohaib84/bushrazohaib84/assets/154512354/a3427d74-36bb-4a90-a7a3-20db30af3bb4)
-
 <h1 align="center">Hi 👋, I'm Bushra Zohaib</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
