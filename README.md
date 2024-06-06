@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bushra-zohaib-0a2860269/](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/bushra-zohaib-0a2860269/](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
+- 📝 I regularly write articles on [Linkedin/](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
 
 - 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **bushrazohaib84@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bushra-zohaib-0a2860269/](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
+- 📄 Know about my experiences [Portfolio](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
 
 - ⚡ Fun fact **i think i am a hard worker**
 
