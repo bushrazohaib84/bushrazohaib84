@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bushra Zohaib</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-<img align="right" alt="coder" width="400" src="https://i.gifer.com/JXA0.gif">
+<img align="right" alt="coder" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrazohaib84&label=Profile%20views&color=0e75b6&style=flat" alt="bushrazohaib84" /> </p>
 
