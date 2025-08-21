@@ -6,9 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrazohaib84&label=Profile%20views&color=0e75b6&style=flat" alt="bushrazohaib84" /> </p>
 
 - 🔭💡 Passionate about Pharma + AI, blending science with intelligent automation
+- 
 🎓 Assistant Faculty at Governor Sindh AI Course
-🚀 Currently working on n8n, OpenAI Agent SDK, and Model Context Protocol (MCP) 
+
+🚀 Currently working on n8n, OpenAI Agent SDK, and Model Context Protocol (MCP)
+
 🌱 Exploring the future of Agentic AI, automation, and custom AI agents
+
 📂 Check out my projects and let’s collaborate!
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
