@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bushra Zohaib</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h3 align="center">Passionate about Pharma + AI, blending science with intelligent automation</h3>
 
 <img align="right" alt="coder" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrazohaib84&label=Profile%20views&color=0e75b6&style=flat" alt="bushrazohaib84" /> </p>
 
-- 🔭 I’m currently working on **Portfolio-Website**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 🤝 I’m looking for help with **Python**
+- 🔭💡 Passionate about Pharma + AI, blending science with intelligent automation
+🎓 Assistant Faculty at Governor Sindh AI Course
+🚀 Currently working on n8n, OpenAI Agent SDK, and Model Context Protocol (MCP) 
+🌱 Exploring the future of Agentic AI, automation, and custom AI agents
+📂 Check out my projects and let’s collaborate!
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
 
 - 📝 I regularly write articles on [Linkedin/](https://www.linkedin.com/in/bushra-zohaib-0a2860269/)
-
-- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **bushrazohaib84@gmail.com**
 
